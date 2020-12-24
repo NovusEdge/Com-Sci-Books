@@ -29,29 +29,29 @@
 
 ## Cryptography
 
--  [HandBook of Applied Cryptography]()
--  [Practical Cryptography with Python]()
--  [Understanding Cryptography]()
+-  [HandBook of Applied Cryptography](https://github.com/NovusEdge/Ethical_Hacking/blob/master/HANDBOOK_of_APPLIED_CRYPTOGRAPHY_.pdf)
+-  [Practical Cryptography with Python](https://github.com/NovusEdge/Ethical_Hacking/blob/master/PracticalPsyPyth.pdf)
+-  [Understanding Cryptography](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Understanding%20Cryptography%20by%20Christof%20Paar%20.pdf)
 
 ## Social Engineering:
 
--  [Ghost In the wires (Kevin Mitnick)]()
--  [Influential Science and Practice]()
--  [Social Engineering - The Art of Human Hacking]()
--  [The Art of deception (Kevin Mitnick)]()
+-  [Ghost In the wires (Kevin Mitnick)](https://github.com/NovusEdge/Ethical_Hacking/blob/master/AppNee.com.Ghost.in.the.Wires.Original.pdf)
+-  [Influential Science and Practice](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Influence__Science_and_Practice_-_Robert_B_Cialdini.pdf)
+-  [Social Engineering - The Art of Human Hacking](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Social_Engineering_The_Art_of_Human_Hack.pdf)
+-  [The Art of deception (Kevin Mitnick)](https://github.com/NovusEdge/Ethical_Hacking/blob/master/The_Art_of_Deception.pdf)
 
 ## ComSci Stuff:
 
--  [Computer Networking]()
--  [Data Communications and Networking]()
--  [Fundamentals of Database systems]()
--  [Operating System Concepts]()
--  [Practical Malware Analysis]()
--  [A Bug Hunter's Diary]()
--  [Research Design ( Basically a "how to research guide" )]()
--  [Art of Electronics]()
+-  [Computer Networking](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Computer_Networking_A_Top_Down_Approach.pdf)
+-  [Data Communications and Networking](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Data%20Communications%20and%20Networking%20By%20Behrouz%20A.Forouzan.pdf)
+-  [Fundamentals of Database systems](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Fundamentals%20of%20Database%20Systems.pdf)
+-  [Operating System Concepts](https://www.dropbox.com/s/8fm30hoz676utwb/Operating%20System%20Concepts%20by%20Abraham%20Silberschatz%2C%20Greg%20Gagne%2C%20Peter%20B.%20Galvin%20%28z-lib.org%29.pdf?dl=0)
+-  [Practical Malware Analysis](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Practical_Malware_Analysis.pdf)
+-  [A Bug Hunter's Diary](https://github.com/NovusEdge/Ethical_Hacking/blob/master/A%20Bug%20Hunter%20039%20s%20Diary%20A%20Guided%20Tour%20Through%20the%20Wilds%20of%20Software%20Security.pdf)
+-  [Research Design ( Basically a "how to research guide" )](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Research%20Design%20Qualitative%2C%20Quantitative%2C%20and%20Mixed%20Methods%20Approaches%20by%20John%20W.%20Creswell%2C%20J.%20David%20Creswell%20(z-lib.org).pdf)
+-  [Art of Electronics](https://www.dropbox.com/s/7u8s933oewf3lxw/The%20Art%20of%20Electronics%203rd%20ed%20%5B2015%5D.pdf?dl=0)
 
 ## Math:
 
--  [Discrete Math for computer science]()
--  [Math for computer science]()
+-  [Discrete Math for computer science](https://github.com/NovusEdge/Ethical_Hacking/blob/master/DiscMaths4CompSc.pdf)
+-  [Math for computer science](https://github.com/NovusEdge/Ethical_Hacking/blob/master/mathforcomps.pdf)
