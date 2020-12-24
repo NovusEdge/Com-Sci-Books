@@ -55,3 +55,7 @@
 
 -  [Discrete Math for computer science](https://github.com/NovusEdge/Ethical_Hacking/blob/master/DiscMaths4CompSc.pdf)
 -  [Math for computer science](https://github.com/NovusEdge/Ethical_Hacking/blob/master/mathforcomps.pdf)
+
+## Useful Websites
+
+-  [Malware analysis database](https://totalhash.cymru.com/)
