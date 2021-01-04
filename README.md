@@ -26,6 +26,7 @@
 -  [ShellCoder's Handbook](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Wiley.The.Shellcoders.Handbook.2nd.Edition.Aug.2007.pdf)
 -  [The Linux Programming interface](https://github.com/NovusEdge/Ethical_Hacking/blob/master/The%20Linux%20programming%20interface%20a%20Linux%20and%20UNIX%20system%20programming%20handbook%20by%20Michael%20Kerrisk%20(z-lib.org).pdf)
 -  [Mastering Vim](https://github.com/NovusEdge/Ethical_Hacking/blob/master/%5Blibribook.com%5D%20Mastering%20Vim%201st%20Edition.Pdf)
+-  [Compilers](https://github.com/NovusEdge/Ethical_Hacking/blob/master/Alfred%20V.%20Aho%2C%20Monica%20S.%20Lam%2C%20Ravi%20Sethi%2C%20Jeffrey%20D.%20Ullman-Compilers%20-%20Principles%2C%20Techniques%2C%20and%20Tools-Pearson_Addison%20Wesley%20(2006).pdf)
 
 ## Cryptography
 
